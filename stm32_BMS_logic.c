@@ -83,3 +83,4 @@ int main(void)
          ADC_ClearFlag(ADC1, ADC_FLAG_EOC);
      }
    }
+//https://labprojectsbd.com/2023/03/18/designing-a-bms-with-stm32/
